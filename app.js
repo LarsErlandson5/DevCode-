@@ -4,5 +4,6 @@ $(document).ready(function () {
         dataType: "json",
         type: 'get',
 
+        }
     })
 })
